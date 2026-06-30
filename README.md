@@ -1,4 +1,4 @@
-# Sensitizing Exchange and Structural Disorder using OGSE
+# Probing Exchange and Structural Disorder using OGSE
 
 MATLAB code accompanying:
 
