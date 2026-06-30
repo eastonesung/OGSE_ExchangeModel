@@ -16,6 +16,11 @@ configure for your own environment.
 
 ```
 .
+├── preprocessing/
+    ├── pipeline_ogse.sh                       Entire pipeline including preprocessing and dti/dki fitting
+    ├── s01_rung_preprocessing_ogse_C2.sh      Preprocessing based on DESIGNER pipeline
+    └── s02_dti_dki_analysis.sh                DTI/DKI fitting using MRtrix3 as well as FSL
+
 ├── models/
 │   └── gpu_KurtModel.m                       Forward model class (askAdam/MCMC compatible):
 │                                              frequency-dependent kurtosis as a function of
