@@ -2,9 +2,7 @@
 
 MATLAB code accompanying:
 
-> Sung D, et al. **Microstructural and exchange imaging with oscillating gradient
-> spin-echo (OGSE) diffusion MRI.** *Magnetic Resonance in Medicine*, 2025.
-> [https://doi.org/10.1002/mrm.70300](https://doi.org/10.1002/mrm.70300)
+> Sung, et al., “Complementary Sensitivity of Fixed-Time and Fixed-Oscillation Regimes to Exchange and Structural Disorder in the Human Brain Revealed Using Oscillating-Gradient Diffusion MRI With Ultra-Strong Gradients,” Magnetic Resonance in Medicine95, no. 6 (2026): 3429–3444, https://doi.org/10.1002/mrm.70300.
 
 This repository contains the model, fitting, and figure-generation code used in
 the paper. It is shared for transparency and reproducibility; it is **not**
@@ -80,8 +78,8 @@ information.
 
 ## Citation
 
-If you use this code, please cite the paper above, and please also cite
-**gacelle** per the instructions in its
+If you use this code, please cite the paper above (Sung et al., “Complementary Sensitivity of Fixed-Time and Fixed-Oscillation Regimes to Exchange and Structural Disorder in the Human Brain Revealed Using Oscillating-Gradient Diffusion MRI With Ultra-Strong Gradients,” Magnetic Resonance in Medicine95, no. 6 (2026): 3429–3444, https://doi.org/10.1002/mrm.70300.)
+, and please also cite **gacelle** per the instructions in its
 [repository](https://github.com/kschan0214/gacelle#terms-of-use), since the
 fitting routines here depend on it.
 
