@@ -1,4 +1,4 @@
-# OGSE Exchange-Sensitized Kurtosis Imaging
+# Sensitizing Exchange and Structural Disorder using OGSE
 
 MATLAB code accompanying:
 
